@@ -15,8 +15,8 @@
 
 | STT   | Họ tên                 | MSSV       | Vai trò     | Email                  | 
 | :---: | ---                    | ---        | ---         | ---                    | 
-| 1     | <strong>  Phạm Đức Toàn </strong>  | 21521550   | Nhóm trưởng | 21521550@gm.uit.edu.vn |            
-| 2     |<strong> Trần Thanh Hà   | 21521749   | Thành viên  | 21522400@gm.uit.edu.vn | 
+| 1     | <strong>  Phạm Đức Toàn  | 21521550   | Nhóm trưởng | 21521550@gm.uit.edu.vn |            
+| 2     |<strong> Trần Thanh Hà   | 21521749   | Thành viên  | 21521749@gm.uit.edu.vn | 
 | 3     | <strong> Nguyễn Đức Tuệ         | 21521644   | Thành viên  | 21521644@gm.uit.edu.vn | 
   
   
