@@ -11,7 +11,7 @@
 
 
 ## GIỚI THIỆU NHÓM
-* **Số thứ tự nhóm:** 12
+* **Số thứ tự nhóm:** 14
 
 | STT   | Họ tên                 | MSSV       | Vai trò     | Email                  | 
 | :---: | ---                    | ---        | ---         | ---                    | 
